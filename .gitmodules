@@ -1,0 +1,6 @@
+[submodule "imobiledevice-net"]
+	path = imobiledevice-net
+	url = https://github.com/libimobiledevice-win32/imobiledevice-net
+[submodule "libimobiledevice"]
+	path = libimobiledevice
+	url = https://github.com/libimobiledevice/libimobiledevice.git
